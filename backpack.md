@@ -6,6 +6,7 @@ Technology bag
 - charging cables x2
 - usb splitter
 - usb power only filter
+- usb c male to usb a female
 
 Toiletries bag
 - toothbrush and toothpaste
