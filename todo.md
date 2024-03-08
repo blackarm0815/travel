@@ -13,3 +13,4 @@ still to do
 - visit barber, get beard trim and head shave
 - get soap dish
 - find box for completed swans
+- buy cargo pants for flight

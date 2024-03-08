@@ -3,7 +3,7 @@
 - coat
 - scarf
 - hat
-- tracky pants for comfort (put jeans in luggage)
+- cargo pants for comfort
 - glasses case in coat pocket with swans
 - phone
 - headphones

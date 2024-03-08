@@ -1,5 +1,6 @@
 # suitcase
 
-- both pairs of jeans (wear tracky pants on flight for comfort)
+- both pairs of jeans (wear cargo pants on flight for comfort)
 - two baja jackets
-- clothes i guess?
+- general clothes
+- spare origami papers
