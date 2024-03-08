@@ -15,7 +15,19 @@ Toiletries bag
 - moisturizer
 - tissues
 
-Spare cloths bag
+Spare clothes bag
 - socks
 - boxers
-- tshirt 
+- tshirt
+
+Travel wallet
+- passport
+- printed reservations
+- japanese phrases
+- pen
+
+misc
+- empty water bottle
+- travel pillow
+- sleep mask
+- vegan snacks
