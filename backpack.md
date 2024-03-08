@@ -4,8 +4,6 @@ origami box
 origami block
 
 Technology bag
-- phone
-- headphones
 - usb c usb a charging cables x2
 - usb splitter
 - usb power only filter
