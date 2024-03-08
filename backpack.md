@@ -19,6 +19,8 @@ Toiletries bag
 - moisturizer
 - tissues
 - small towel
+- nail clippers
+- nail file
 
 Spare clothes bag
 - socks
@@ -37,4 +39,3 @@ misc
 - travel pillow
 - sleep mask
 - vegan snacks
-- cushion?
