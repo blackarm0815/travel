@@ -11,3 +11,5 @@ still to do
 - store travel insurance in bumbag
 - inform bank of trip to japan
 - visit barber, get beard trim and head shave
+- get soap dish
+- find box for completed swans
