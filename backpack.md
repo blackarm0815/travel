@@ -20,6 +20,7 @@ Toiletries bag
 - tissues
 
 Spare clothes bag
+- tracky pants for comfort
 - socks
 - boxers
 - tshirt
