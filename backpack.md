@@ -1,9 +1,12 @@
 # backpack
 
+origami box
+origami block
+
 Technology bag
 - phone
 - headphones
-- charging cables x2
+- usb c usb a charging cables x2
 - usb splitter
 - usb power only filter
 - usb c male to usb a female
