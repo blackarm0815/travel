@@ -14,3 +14,4 @@ still to do
 - get soap dish
 - find box for completed swans
 - buy cargo pants for flight
+- get some proper masks
