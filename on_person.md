@@ -8,4 +8,4 @@
 - phone
 - headphones
 - wallet
-- keys
+- keys (with usb stick)
