@@ -18,15 +18,16 @@ Toiletries bag
 - hand sanitiser
 - moisturizer
 - tissues
+- small towel
 
 Spare clothes bag
-- tracky pants for comfort
 - socks
 - boxers
 - tshirt
 
 Travel wallet
 - passport
+- flight electronic ticket
 - printed reservations
 - japanese phrases
 - pen
