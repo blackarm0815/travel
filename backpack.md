@@ -10,6 +10,7 @@ Technology bag
 - usb splitter
 - usb power only filter
 - usb c male to usb a female
+- powerbank?
 
 Toiletries bag
 - toothbrush and toothpaste
@@ -21,6 +22,9 @@ Toiletries bag
 - small towel
 - nail clippers
 - nail file
+- earplugs
+- toothpicks
+- tattoo aftercare cream
 
 Spare clothes bag
 - socks
