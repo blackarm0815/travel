@@ -1,4 +1,4 @@
 # on person
 
-wallet
-keys
+- wallet
+- keys
