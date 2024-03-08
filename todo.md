@@ -7,3 +7,4 @@
 - arrange travel insurance
 - store travel insurance in bumbag
 - inform bank of trip to japan
+- visit barber, get beard trim and head shave
