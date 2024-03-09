@@ -15,3 +15,4 @@ still to do
 - visit barber, get beard trim and head shave
 - find box for completed swans
 - buy and install esim
+- pay car tax
