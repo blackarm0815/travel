@@ -1,8 +1,8 @@
 # backpack
 
 Origami
-- wooden origami box
-- origami block
+- origami papers, glue and brush in plastic bag (avoid hassles with security assholes)
+- small hardback book to fold on
 - box of premade swans
 
 Technology bag

@@ -8,4 +8,4 @@
 - phone
 - headphones
 - wallet
-- keys (with usb stick)
+- leave keys at home

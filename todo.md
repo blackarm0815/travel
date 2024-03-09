@@ -13,5 +13,5 @@ still to do
 - visit barber, get beard trim and head shave
 - get soap dish
 - find box for completed swans
-- buy cargo pants for flight
+- buy cargo pants for flight (trespass? sports direct? trespass?)
 - get some proper masks
