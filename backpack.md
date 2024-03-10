@@ -11,6 +11,7 @@ Technology bag
 - usb power only filter
 - usb c male to usb a female
 - powerbank?
+- airplane headphone adaptors
 
 Toiletries bag
 - toothbrush and toothpaste
