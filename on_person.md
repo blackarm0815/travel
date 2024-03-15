@@ -1,9 +1,13 @@
 # on person
 
+clothes
+- cargo pants
+- baja jacket
 - coat
 - scarf
 - hat
-- cargo pants for comfort
+
+other
 - glasses case in coat pocket with swans
 - phone
 - headphones

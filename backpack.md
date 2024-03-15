@@ -20,17 +20,16 @@ Toiletries bag
 - hand sanitiser
 - moisturizer
 - tissues
-- small towel
-- nail clippers
+- small towel 
 - nail file
 - earplugs
 - toothpicks
 - tattoo aftercare cream
 
 Spare clothes bag
-- socks
-- boxers
-- tshirt
+- 1 socks
+- 1 pants
+- 1 tshirt
 
 Travel wallet
 - passport
@@ -44,3 +43,4 @@ misc
 - travel pillow
 - sleep mask
 - vegan snacks
+- nail files
